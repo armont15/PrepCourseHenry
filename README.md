@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio del curso de Henry
+Esta es la primera prueba sobre GitHub
