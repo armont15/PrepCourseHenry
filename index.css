@@ -1,0 +1,15 @@
+#titulo{
+    text-align:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    font-style: italic;
+    color:blue;
+    
+}
+
+#caja{
+    background-color:red;
+    height: 300px;
+    width: 50%;
+    display: flex;
+}
