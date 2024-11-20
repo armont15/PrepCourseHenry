@@ -9,4 +9,12 @@
 #yo{
     color: red;
     font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-family: cursive;
+    color:chartreuse;
+    background-color: black;
+    width: 50%;
 }
