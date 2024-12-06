@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+
+.titulo{
+    font-size: 28px;
+    color: blueviolet;
+}
+
+#principal{
+    font-size: 40px;
+    color: blue;
+}
+
+.logo{
+    width: 250px;
+}
